@@ -7,7 +7,7 @@
 * My responsibilities include:
   * Feature engineering: Line space(LS) and Ratio of title word to total ranked at top among others
   * Model implementation: XGBoost
-#### A final report is [here](https://github.com/my2582/KPMGCapstone/raw/master/Algorithmic%20Comment%20Processing_Capstone_Spring%202019.pdf)
+#### A copy of the final report is [here](https://github.com/my2582/KPMGCapstone/raw/master/Algorithmic%20Comment%20Processing_Capstone_Spring%202019.pdf)
 
 
 ### Contributors:
