@@ -22,3 +22,8 @@
 
 ### Data Science Institute mentor:
 * Sining Chen, Lecturer, Columbia University
+
+
+## 6 Takeawys of the Final Report
+![summary](summary_6_pages.png)
+
