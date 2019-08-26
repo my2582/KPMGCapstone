@@ -25,5 +25,7 @@
 
 
 ## 6 Takeawys of the Final Report
-![summary](summary_6_pages.png)
+![summary1](summary_6_pages-1.png)
+![summary2](summary_6_pages-2.png)
+![summary3](summary_6_pages-3.png)
 
